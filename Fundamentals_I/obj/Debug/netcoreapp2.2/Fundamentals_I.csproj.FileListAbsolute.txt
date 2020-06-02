@@ -1,0 +1,11 @@
+C:\Users\flowergirl\Desktop\Coding_Dojo\Assignments\07_CSharp\CSharp\Fundamentals_I\bin\Debug\netcoreapp2.2\Fundamentals_I.deps.json
+C:\Users\flowergirl\Desktop\Coding_Dojo\Assignments\07_CSharp\CSharp\Fundamentals_I\bin\Debug\netcoreapp2.2\Fundamentals_I.runtimeconfig.json
+C:\Users\flowergirl\Desktop\Coding_Dojo\Assignments\07_CSharp\CSharp\Fundamentals_I\bin\Debug\netcoreapp2.2\Fundamentals_I.runtimeconfig.dev.json
+C:\Users\flowergirl\Desktop\Coding_Dojo\Assignments\07_CSharp\CSharp\Fundamentals_I\bin\Debug\netcoreapp2.2\Fundamentals_I.dll
+C:\Users\flowergirl\Desktop\Coding_Dojo\Assignments\07_CSharp\CSharp\Fundamentals_I\bin\Debug\netcoreapp2.2\Fundamentals_I.pdb
+C:\Users\flowergirl\Desktop\Coding_Dojo\Assignments\07_CSharp\CSharp\Fundamentals_I\obj\Debug\netcoreapp2.2\Fundamentals_I.csprojAssemblyReference.cache
+C:\Users\flowergirl\Desktop\Coding_Dojo\Assignments\07_CSharp\CSharp\Fundamentals_I\obj\Debug\netcoreapp2.2\Fundamentals_I.csproj.CoreCompileInputs.cache
+C:\Users\flowergirl\Desktop\Coding_Dojo\Assignments\07_CSharp\CSharp\Fundamentals_I\obj\Debug\netcoreapp2.2\Fundamentals_I.AssemblyInfoInputs.cache
+C:\Users\flowergirl\Desktop\Coding_Dojo\Assignments\07_CSharp\CSharp\Fundamentals_I\obj\Debug\netcoreapp2.2\Fundamentals_I.AssemblyInfo.cs
+C:\Users\flowergirl\Desktop\Coding_Dojo\Assignments\07_CSharp\CSharp\Fundamentals_I\obj\Debug\netcoreapp2.2\Fundamentals_I.dll
+C:\Users\flowergirl\Desktop\Coding_Dojo\Assignments\07_CSharp\CSharp\Fundamentals_I\obj\Debug\netcoreapp2.2\Fundamentals_I.pdb
